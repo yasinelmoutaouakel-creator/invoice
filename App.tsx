@@ -223,7 +223,7 @@ const App: React.FC = () => {
               <div className="grid grid-cols-12 border-b-2 border-[#4338CA] pb-3 mb-5 px-1">
                 <div className={`col-span-7 ${labelStyle}`}>DESCRIPTION</div>
                 <div className={`col-span-1 ${labelStyle} text-center`}>QTÉ</div>
-                <div className={`col-span-2 ${labelStyle} text-right`}>UNITÉ</div>
+                <div className={`col-span-2 ${labelStyle} text-right`}>PRIX UNIT.</div>
                 <div className={`col-span-2 ${labelStyle} text-right`}>TOTAL</div>
               </div>
 
